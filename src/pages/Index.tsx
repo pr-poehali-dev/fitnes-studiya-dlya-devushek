@@ -48,7 +48,7 @@ const Index = () => {
           <div className="animate-fade-in">
             <Badge className="mb-4 bg-secondary text-secondary-foreground">Женская фитнес-студия</Badge>
             <h2 className="text-5xl md:text-6xl font-bold mb-6 text-foreground">
-              Забота о вашем<br />теле и здоровье
+              YOUNG - это молодость,<br />а молодость - это энергия и здоровье
             </h2>
             <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
               Восстановление и коррекция ОДА, персональные занятия, массаж, ЛФК, групповые занятия в именной студии Быковой Ольги
