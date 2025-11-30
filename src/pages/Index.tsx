@@ -51,7 +51,7 @@ const Index = () => {
               Забота о вашем<br />теле и здоровье
             </h2>
             <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
-              Персональные тренировки, массаж, групповые занятия и реабилитация после травм в уютной атмосфере
+              Восстановление и коррекция ОДА, персональные занятия, массаж, ЛФК, групповые занятия в именной студии Быковой Ольги
             </p>
             <div className="flex gap-4 justify-center">
               <Button size="lg" className="bg-primary hover:bg-primary/90">
