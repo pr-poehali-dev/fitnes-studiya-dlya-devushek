@@ -421,7 +421,7 @@ const Index = () => {
 
       <footer className="bg-foreground/5 py-12 px-4">
         <div className="container mx-auto text-center">
-          <h2 className="text-2xl font-bold mb-4 text-primary">Грация</h2>
+          <h2 className="text-2xl font-bold mb-4 text-primary">YOUNG</h2>
           <p className="text-muted-foreground mb-6">Фитнес-студия для заботы о женском здоровье</p>
           <div className="flex justify-center gap-4 mb-6">
             {['Instagram', 'Facebook', 'Youtube'].map((social) => (
