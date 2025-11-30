@@ -430,7 +430,7 @@ const Index = () => {
               </Button>
             ))}
           </div>
-          <p className="text-sm text-muted-foreground">© 2024 Грация. Все права защищены.</p>
+          <p className="text-sm text-muted-foreground">© 2025 YOUNG. Все права защищены.</p>
         </div>
       </footer>
     </div>
